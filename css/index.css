@@ -1,0 +1,32 @@
+.p{
+    margin-top: 30px;
+    color: black;
+    text-align: center;
+}
+
+.h1{
+    color:darkcyan;
+    text-align: center;
+}
+.h2{
+    color:blueviolet;
+    text-align: center;
+}
+
+.ul{
+    text-align: center;
+    margin-left: 20px;
+    color:cornflowerblue;
+    list-style-position: inside;
+   
+
+}
+.ol{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 52;
+    color:cornflowerblue;
+    list-style-position: inside;
+   
+
+}
